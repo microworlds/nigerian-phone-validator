@@ -61,4 +61,4 @@ MIT
 
 ## Developer
 
-[microworlds](https://www.webscrapingzone.com/)
+[webscrapingzone.com](https://www.webscrapingzone.com/)
