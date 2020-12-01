@@ -1,12 +1,12 @@
 ## Nigerian Phone Validator
 Validate and format Nigerian phone numbers
 
-### Installation
+## Installation
 ```
 $ npm install nigerian-phone-validator --save
 ```
 
-### Usage
+## Usage
 
 This module accepts a regular `11-digits` Nigerian phone number, validate it and then format it using the country code. Example, a phone number given as `08024672344` will be validated and formated to look like this `+2348024672344`
 
@@ -23,7 +23,7 @@ The function accepts the phone number as a `string` returns an `object` containi
 
 Always keep your eyes on the `success` property of the return value. Is is a `Boolean` that tells you how successful the validation went
 
-### Example
+## Example
 
 ```js
 const validateNumber = require('nigerian-phone-validator');
@@ -51,10 +51,14 @@ console.log(invalidNumber)
 
 ```
 
-### Contributions
+## Contributions
 
 Pull Requests are welcomed, feel free to make the web a better place
 
-### License
+## License
 
 MIT
+
+## Developer
+
+[microworlds](https://www.webscrapingzone.com/)
