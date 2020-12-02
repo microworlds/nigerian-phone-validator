@@ -1,6 +1,6 @@
 {
   "name": "nigerian-phone-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Validate and format a Nigerian phone number",
   "main": "index.js",
   "homepage": "https://github.com/microworlds/nigerian-phone-validator",
@@ -9,7 +9,7 @@
       "url": "git+https://github.com/microworlds/nigerian-phone-validator.git"
     },
   "keywords": [
-    "nigeria, naija, phone, number, validator, twilio"
+    "nigeria", "naija", "phone", "number", "validator", "twilio"
   ],
   "author": "Caleb David <calebdavid20@gmail.com>",
   "license": "MIT"
